@@ -5,6 +5,8 @@ Uses a shader that draws the blinders. it work by having a "focus" spot that
 is not dark, this focus spot moves and changes size based on response from
 the player / gameworld.
 
+You can tweak a lot of the parameters. good luck. 
+
 It is not very complicated and is inteded as a starting point. 
 If you have opinions on how to improve , please send me feedback. 
 Use as you please. 
